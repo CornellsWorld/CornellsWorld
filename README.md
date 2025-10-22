@@ -9,7 +9,7 @@ I'm a passionate **Junior Frontend Developer** with experience in **Html, CSS an
 
 - 🌱 Currently learning: **React, NodeJs and Typescripting**
 - 🔭 Working on: **A Music studio website**
-- 🌍 Languages: **JavaScript and English**
+- 🌍 Languages: **HTML, CSS and JAavaSript**
 - 📫 How to reach me: **Email: corneliusalhassan@gmail.com WhatsApp: +2347088683789**
 - ⚡ Fun fact: **I love Music**
 
