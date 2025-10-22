@@ -1,17 +1,3 @@
-## Hi there 👋
-
-**CornellsWorld/CornellsWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 # Hi there, I'm Cornelius Alhassan! 👋
 
 <img width="2000" height="600" alt="Purple Abstract Graphic Design LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/528dfe9a-a43d-400f-a001-79428e25c2df" />
@@ -45,7 +31,7 @@ I'm a passionate **Junior Frontend Developer** with experience in **Html, CSS an
  www.youthfellowshipgnl.netlify.app
 
 
-**The Church Fellowship Website** is a **project that captures the history of the denominations and the biography of the church executives** built with **Html and CSS**. This project demonstrates my ability to **effectively use HTML and CSS**. You can check out the repository [here](project_1_repository_link).
+**The Church Fellowship Website** is a **project that captures the history of the denominations and the biography of the church executives** built with **Html and CSS**. This project demonstrates my ability to **effectively use HTML and CSS**. You can check out the repository [here]https://github.com/CornellsWorld/youth-fellowshipgnl-website.
 
 <!--### [Project 2 Title](project_2_link)
 
